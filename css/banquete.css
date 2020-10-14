@@ -1,0 +1,212 @@
+html,
+body {
+  height: 100%;
+}
+/*Generales*/
+.bg-banquete{background-color: #DCAA25!important;}
+.text-banquete{color:#FDF6CE}
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.btn-a1 {
+  color: #fff;
+  background-color: #9a871a;
+  border-color: #ffffff;}
+  
+.btn-a1:after {
+  color: #fff;
+  background-color: #9a871a;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.btn-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: " #9A871A"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.btn-a2 {
+  color: #fff;
+  background-color: #c9dc25;
+  border-color: #ffffff; }
+  
+.btn-a2:after {
+  color: #fff;
+  background-color: #c9dc25;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.btn-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#C9DC25"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.btn-a3 {
+  color: #fff;
+  background-color: #dc9c25;
+  border-color: #ffffff }
+ 
+ .btn-a3:after {
+  color: #fff;
+  background-color: #dc9c25;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.btn-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#DC9C25";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.btn-a4 {
+  color: #fff;
+  background-color: #9a6d1a;
+  border-color: #ffffff; }
+  
+.btn-a4:after {
+  color: #fff;
+  background-color: #9a6d1a;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.btn-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#9A6D1A";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.btn-m1 {
+  color: #fff;
+  background-color: #968A23;
+  border-color: #ffffff; }
+.btn-m1:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************M1*****************************/
+
+/******************M2*****************************/
+.btn-m2 {
+  color: #fff;
+  background-color: #252301;
+  border-color: #ffffff; }
+.btn-m2:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************M2*****************************/
+
+/******************M3*****************************/
+.btn-m3 {
+  color: #fff;
+  background-color: #2E2902;
+  border-color: #ffffff; }
+.btn-m3:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************M3*****************************/
+
+/******************M4*****************************/
+.btn-m4 {
+  color: #fff;
+  background-color: #121212;
+  border-color: #ffffff; }
+.btn-m4:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.btn-t1 {
+  color: #fff;
+  background-color: #9a871a;
+  border-color: #ffffff; }
+.btn-t1:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************T1*****************************/
+
+/******************T2*****************************/
+.btn-t2 {
+  color: #fff;
+  background-color: #25b0dc;
+  border-color: #ffffff; }
+.btn-t2:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************T2*****************************/
+
+/******************T3*****************************/
+.btn-t3 {
+  color: #fff;
+  background-color: #1a7b9a;
+  border-color: #ffffff; }
+.btn-t3:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************T3*****************************/
+
+/******************T4*****************************/
+.btn-t4 {
+  color: #fff;
+  background-color: #dc258f;
+  border-color: #ffffff; }
+.btn-t4:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.btn-c1 {
+  color: #fff;
+  background-color: #9a871a;
+  border-color: #ffffff; }
+.btn-c1:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************C1*****************************/
+
+/******************C2*****************************/
+.btn-c2 {
+  color: #fff;
+  background-color: #252301;
+  border-color: #ffffff; }
+.btn-c2:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************C2*****************************/
+
+/******************C3*****************************/
+.btn-c3 {
+  color: #fff;
+  background-color: #6a25dc;
+  border-color: #ffffff; }
+.btn-c3:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************C3*****************************/
+
+/******************C4*****************************/
+.btn-c4 {
+  color: #fff;
+  background-color: #4a1a9a;
+  border-color: #ffffff; }
+.btn-c4:hover:after {
+color: #fff;
+border-color: #ffffff; }
+/******************C4*****************************/
+/**************************************************Complementarios*************************************************/
