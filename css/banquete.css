@@ -1,6 +1,36 @@
 html,
 body {
   height: 100%;
+  
+  font-family: Alcubierre; src:('fonts/Alcubierre/Alcubierre.otf') !important;
+  /* font-family: Amada; src:('fonts/amada/Amada-Regular.ttf') !important; */
+  /* font-family: arimo; src:('fonts/arimo/Arimo-Regular.ttf') !important; */
+  /* font-family: Athene; src:('fonts/AtheneFF/Athene.otf') !important; */
+  /* font-family: Atifa; src:('fonts/Atifa/Atifa.otf') !important; */
+  /* font-family: Besom 2; src:('fonts/Besom-Handwritten-Brush-Font/Besom-Handwritten-Brush-Font.ttf') !important; */
+  /* font-family: Casual; src:('fonts/CasualRegular/CasualRegular.ttf') !important; */
+  /* font-family: cutepunk; src:('fonts/Cutepunk_Regular/Cutepunk_Regular.otf') !important; */
+  /* font-family: Facunda; src:('fonts/Facunda/Facunda.otf') !important; */
+  /* font-family: Hesgaki; src:('fonts/Hesgaki-Luxury-Signature-Font/Hesgaki.otf') !important; */
+  /* font-family: Kano; src:('fonts/Kano_Regular/Kano.otf') !important; */
+  /* font-family: kirvy; src:('fonts/kirvy/Kirvy-Regular.otf') !important; */
+  /* font-family: korinna; src:('fonts/korinna/KORIN.ttf') !important; */
+  /* font-family: lena; src:('fonts/lena-ttf/Lena.ttf') !important; */
+  /* font-family: Mightype Script; src:('fonts/Mightype-Free-Handlettered-Script-Font/Mightype Script.otf') !important; */  
+  /* font-family: Milkshake; src:('fonts/Milkshake/Milkshake_3de45646d19b2839020f16d637766759.ttf') !important; */
+  /* font-family: montepetrum; src:('fonts/montepetrum/Montepetrumregular.ttf') !important; */
+  /* font-family: Montserrat; src:('fonts/montserrat/Montserrat-Regular.otf') !important; */
+  /* font-family: ONE DAY; src:('fonts/ONEDAY/ONEDAY.otf') !important; */
+  /* font-family: Open Sans; src:('fonts/OpenSans/OpenSans-Regular.ttf') !important; */
+  /* font-family: rainwood; src:('fonts/rainwood/rainwood.otf') !important; */
+  /* font-family: reckless sample; src:('fonts/reckless/reckless_sample.otf') !important; */
+  /* font-family: Salvador_Hand_v1; src:('fonts/Salvador_Hand_v1/Salvador_Hand_V1.otf') !important; */
+  /* font-family: selima; src:('fonts/selima/Selima.otf') !important; */
+  /* font-family:  shellahera script demo; src:('fonts/shellahera_script/ShellaheraScriptDemo.otf') !important; */
+  /* font-family: Flogreen; src:('fonts/SYNTHESIAFF/SYNTHESIA.ttf') !important; */
+  /* font-family: verona lotte; src:('fonts/verona_lotte/Verona Lotte Script.otf') !important; */
+  /* font-family: Wildera; src:('fonts/Wildera-Regular/Wildera-Regular.otf') !important; */
+  /* font-family: Zelda; src:('fonts/Zelda/ZELDA400.otf') !important; */
 }
 /*Generales*/
 .bg-banquete{background-color: #DCAA25!important;}
@@ -89,9 +119,17 @@ content:"#9A6D1A";}
   color: #fff;
   background-color: #968A23;
   border-color: #ffffff; }
+  
+.btn-m1:after{
+  color: #fff;
+  background-color: #968A23;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
 .btn-m1:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#968A23";}
 /******************M1*****************************/
 
 /******************M2*****************************/
@@ -99,9 +137,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #252301;
   border-color: #ffffff; }
+  
+.btn-m2:after{
+  color: #fff;
+  background-color: #252301;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
 .btn-m2:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#252301";}
 /******************M2*****************************/
 
 /******************M3*****************************/
@@ -109,9 +155,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #2E2902;
   border-color: #ffffff; }
+  
+  .btn-m3:after{
+  color: #fff;
+  background-color: #2E2902;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
 .btn-m3:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#2E2902";}
 /******************M3*****************************/
 
 /******************M4*****************************/
@@ -119,9 +173,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #121212;
   border-color: #ffffff; }
+  
+.btn-m4:after{
+  color: #fff;
+  background-color: #121212;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
 .btn-m4:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#121212";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
 
@@ -132,9 +194,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #9a871a;
   border-color: #ffffff; }
+  
+.btn-t1:after{
+  color: #fff;
+  background-color: #9a871a;
+  border-color: #ffffff;
+  content:"Olive";}
+  
 .btn-t1:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff;
+content:"#9a871a ";}
 /******************T1*****************************/
 
 /******************T2*****************************/
@@ -142,9 +212,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #25b0dc;
   border-color: #ffffff; }
+  
+  .btn-t2:after{
+  color: #fff;
+  background-color: #25b0dc;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
 .btn-t2:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#25b0dc";}
 /******************T2*****************************/
 
 /******************T3*****************************/
@@ -152,9 +230,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #1a7b9a;
   border-color: #ffffff; }
+  
+.btn-t3:after{
+  color: #fff;
+  background-color: #1a7b9a;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
 .btn-t3:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#1a7b9a";}
 /******************T3*****************************/
 
 /******************T4*****************************/
@@ -162,9 +248,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #dc258f;
   border-color: #ffffff; }
+  
+  .btn-t4:after{
+  color: #fff;
+  background-color: #dc258f;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
 .btn-t4:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#dc258f";}
 /******************T4*****************************/
 
 /**************************************************Triada*************************************************/
@@ -175,9 +269,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #9a871a;
   border-color: #ffffff; }
+  
+.btn-c1:after{
+  color: #fff;
+  background-color: #9a871a;
+  border-color: #ffffff;
+  content:"Olive";}
+  
 .btn-c1:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#9a871a";}
 /******************C1*****************************/
 
 /******************C2*****************************/
@@ -185,9 +287,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #252301;
   border-color: #ffffff; }
+  
+.btn-c2:after{
+  color: #fff;
+  background-color: #252301;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
 .btn-c2:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff;
+content:"#252301";}
 /******************C2*****************************/
 
 /******************C3*****************************/
@@ -195,9 +305,17 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #6a25dc;
   border-color: #ffffff; }
+  
+.btn-c3:after{
+  color: #fff;
+  background-color: #6a25dc;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
 .btn-c3:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #6a25dc; 
+content:"#6a25dc";}
 /******************C3*****************************/
 
 /******************C4*****************************/
@@ -205,8 +323,16 @@ border-color: #ffffff; }
   color: #fff;
   background-color: #4a1a9a;
   border-color: #ffffff; }
+  
+  .btn-c4:after{
+  color: #fff;
+  background-color: #4a1a9a;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
 .btn-c4:hover:after {
 color: #fff;
-border-color: #ffffff; }
+border-color: #ffffff; 
+content:"#4a1a9a";}
 /******************C4*****************************/
-/**************************************************Complementarios*************************************************/
+*************************************************Complementarios************************************************
