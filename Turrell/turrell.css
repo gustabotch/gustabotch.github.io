@@ -1,0 +1,160 @@
+html,
+body {
+  height: 100%;  
+}
+
+body {
+  overflow: hidden;
+  font-size: 10px;
+}
+
+.stage .square {
+  height: 2em !important;  
+  width: 2em !important;  
+  z-index: 1;
+  opacity: 0.7975;
+}
+.stage .square:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;  
+  background: #E0A1FF;  
+  box-shadow: /*0 0 5px #FDCFFF inset,*/ 0 0 300px 10px #FDCFFF, 0 0 300px #743986, 0 0 300px #743986, 0 0 300px #743986, 0 0 300px #743986;
+  transform: translate(-200%, 0.2%);
+  // 81C0FF 5EAEFF 3E9EFF 2190FF 0783FF 0076EC 006AD4 005FBF 0056AC
+}
+
+.stage .center {
+  height: 3em !important;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #080E1D;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);  
+}
+.stage .center:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(10%, rgba(0, 0, 0, 1)), color-stop(50%, rgba(0, 0, 0, 1)));  
+  opacity: 1;
+}
+
+.stage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  -webkit-perspective: 400;
+          perspective: 400;
+  -webkit-animation: camera 10s infinite;
+          animation: camera 10s infinite;
+  position: relative;
+}
+.stage div {
+  box-sizing: border-box;
+}
+.stage .floor {
+  background: #000000;  
+  background-size: 90%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #080E1D;
+  -webkit-transform: translate(-50%, 1.5em) rotateX(90deg);
+          transform: translate(-50%, 1.5em) rotateX(90deg);
+  -webkit-transform-origin: center top;
+          transform-origin: center top;
+}
+.stage .floor:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(21, 21, 21, 1)), color-stop(0%, rgba(10, 10, 10, 1)), color-stop(0%, #000));  
+}
+.stage .rightwall {
+  height: 3.01em !important;
+  background: #000000;  
+  border-style: solid;
+  border-width: 1px;
+  border-color: #080E1D;
+  -webkit-transform: translate(50%, -50%) rotateY(-90deg);
+          transform: translate(50%, -50%) rotateY(-90deg);
+  -webkit-transform-origin: left center;
+          transform-origin: left center;
+}
+.stage .rightwall:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(80, 80, 80, 1)), color-stop(0%, #000));  
+  opacity: 1;
+}
+.stage .leftwall {
+  height: 3em !important;
+  background: #000000;  
+  border-style: solid;
+  border-width: 1px;
+  border-color: #080E1D;
+  -webkit-transform: translate(-150%, -50%) rotateY(90deg);
+          transform: translate(-150%, -50%) rotateY(90deg);
+  -webkit-transform-origin: right center;
+          transform-origin: right center;
+}
+.stage .leftwall:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: -webkit-gradient(linear, right top, left top, color-stop(0%, #000000), color-stop(0%, #000));  
+  opacity: 1;
+}
+.stage .ceiling {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #080E1D;
+  -webkit-transform: translate(-50%, -5.5em) rotateX(-90deg);
+          transform: translate(-50%, -5.5em) rotateX(-90deg);
+  -webkit-transform-origin: bottom center;
+          transform-origin: bottom center;  
+  background-size: 150%;
+}
+.stage .ceiling:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(-8%, rgba(0, 0, 0, 1)), color-stop(50%, #000));
+  opacity: 1;
+}
+.stage .threed {
+  position: absolute;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+          align-items: center;
+  font-size: 5rem;
+  width: 6em;
+  height: 4em;
+  left: 50%;
+  top: 50%;
+}
+</style>
