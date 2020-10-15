@@ -319,7 +319,7 @@ content:"#9a9590";}
   color: #fff;
   background-color: #889e9d;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Morning Blue";}
 
 .madrigal-a1:hover:after{
 color: #fff;
@@ -337,7 +337,7 @@ content: "#889e9d"}
   color: #fff;
   background-color: #c2cbe2;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Light Periwinkle";}
   
 .madrigal-a2:hover:after{
 color: #fff;
@@ -355,7 +355,7 @@ content: "#c2cbe2"}
   color: #fff;
   background-color: #c3e2c2;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Tea Green";}
  
 .madrigal-a3:hover:after{
 color: #fff;
@@ -373,7 +373,7 @@ content:"#c3e2c2";}
   color: #fff;
   background-color: #899e88;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Spanish Green";}  
   
 .madrigal-a4:hover:after{
 color: #fff;
@@ -395,7 +395,7 @@ content:"#899e88";}
   color: #fff;
   background-color: #889e9d;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Morning Blue";}
   
 .madrigal-m1:hover:after {
 color: #fff;
@@ -405,55 +405,55 @@ content:"#889e9d";}
 
 /******************M2*****************************/
 .madrigal-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #f6fffe;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .madrigal-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #f6fffe;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Mint Cream";}
   
 .madrigal-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#f6fffe";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .madrigal-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #edfffe;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .madrigal-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #edfffe;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Azure X";}
   
 .madrigal-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#edfffe";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .madrigal-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .madrigal-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White ";}  
   
 .madrigal-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -470,7 +470,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #889e9d;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Morning Blue";}
   
 .madrigal-t1:hover:after {
 color: #fff;
@@ -488,7 +488,7 @@ content:"#889e9d ";}
   color: #fff;
   background-color: #e2c2db;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Thistle";}
   
 .madrigal-t2:hover:after {
 color: #fff;
@@ -506,7 +506,7 @@ content:"#e2c2db";}
   color: #fff;
   background-color: #9e8899;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Mountbatten Pink";}
   
 .madrigal-t3:hover:after {
 color: #fff;
@@ -524,7 +524,7 @@ content:"#9e8899";}
   color: #fff;
   background-color: #e2dbc2;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Bone";}
   
 .madrigal-t4:hover:after {
 color: #fff;
@@ -545,7 +545,7 @@ content:"#e2dbc2";}
   color: #fff;
   background-color: #889e9d;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Morning Blue";}
   
 .madrigal-c1:hover:after {
 color: #fff;
@@ -555,19 +555,19 @@ content:"#889e9d";}
 
 /******************C2*****************************/
 .madrigal-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #f6fffe;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .madrigal-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #f6fffe;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Mint Cream";}
   
 .madrigal-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#f6fffe";}
 /******************C2*****************************/
 
@@ -581,7 +581,7 @@ content:"#f6fffe";}
   color: #fff;
   background-color: #e2cec2;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Champagne Pink";}
   
 .madrigal-c3:hover:after {
 color: #fff;
@@ -599,7 +599,7 @@ content:"#e2cec2";}
   color: #fff;
   background-color: #9e9088;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Middle Grey";}
   
 .madrigal-c4:hover:after {
 color: #fff;
@@ -620,7 +620,7 @@ content:"#9e9088";}
   color: #fff;
   background-color: #242b2b;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Charleston Green";}
 
 .plinto-a1:hover:after{
 color: #fff;
@@ -638,7 +638,7 @@ content: "#242b2b"}
   color: #fff;
   background-color: #33363e;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Onyx";}
   
 .plinto-a2:hover:after{
 color: #fff;
@@ -656,7 +656,7 @@ content: "#33363e"}
   color: #fff;
   background-color: #343e33;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Kombu Green";}
  
 .plinto-a3:hover:after{
 color: #fff;
@@ -674,7 +674,7 @@ content:"#343e33";}
   color: #fff;
   background-color: #242b24;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Pine Tree";}  
   
 .plinto-a4:hover:after{
 color: #fff;
@@ -696,7 +696,7 @@ content:"#242b24";}
   color: #fff;
   background-color: #242b2b;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Charleston Green";}
   
 .plinto-m1:hover:after {
 color: #fff;
@@ -706,51 +706,51 @@ content:"#242b2b";}
 
 /******************M2*****************************/
 .plinto-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #f4fffe;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .plinto-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #f4fffe;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Azure X";}
   
 .plinto-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#f4fffe";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .plinto-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #e8fffd;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .plinto-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #e8fffd;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Light Cyan";}
   
 .plinto-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#e8fffd";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .plinto-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .plinto-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White ";}  
   
 .plinto-m4:hover:after {
 color: #fff;
@@ -771,7 +771,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #242b2b;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Charleston Green";}
   
 .plinto-t1:hover:after {
 color: #fff;
@@ -789,7 +789,7 @@ content:"#242b2b ";}
   color: #fff;
   background-color: #3e333c;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Black Coffee";}
   
 .plinto-t2:hover:after {
 color: #fff;
@@ -807,7 +807,7 @@ content:"#3e333c";}
   color: #fff;
   background-color: #2b242a;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Raisin Black";}
   
 .plinto-t3:hover:after {
 color: #fff;
@@ -825,7 +825,7 @@ content:"#2b242a";}
   color: #fff;
   background-color: #3e3c33;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Black Olive";}
   
 .plinto-t4:hover:after {
 color: #fff;
@@ -846,7 +846,7 @@ content:"#3e3c33";}
   color: #fff;
   background-color: #242b2b;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Charleston Green";}
   
 .plinto-c1:hover:after {
 color: #fff;
@@ -856,19 +856,19 @@ content:"#242b2b";}
 
 /******************C2*****************************/
 .plinto-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #f4fffe;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .plinto-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #f4fffe;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Azure X";}
   
 .plinto-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#f4fffe";}
 /******************C2*****************************/
 
@@ -882,7 +882,7 @@ content:"#f4fffe";}
   color: #fff;
   background-color: #3e3733;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Dark Lava";}
   
 .plinto-c3:hover:after {
 color: #fff;
@@ -900,7 +900,7 @@ content:"#3e3733";}
   color: #fff;
   background-color: #2b2624;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Raisin Black";}
   
 .plinto-c4:hover:after {
 color: #fff;
@@ -921,7 +921,7 @@ content:"#2b2624";}
   color: #fff;
   background-color: #a9863a;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Metallic Sunburst";}
 
 .crujido-a1:hover:after{
 color: #fff;
@@ -931,20 +931,20 @@ content: "#a9863a"}
 
 /******************A2*****************************/
 .crujido-a2 {
-  color: #fff;
-  background-color: #a9863a;
-  border-color: #ffffff; }
+  color: #000000;
+  background-color: #f1df53;
+  border-color: #000000; }
   
 .crujido-a2:after {
-  color: #fff;
-  background-color: #a9863a;
-  border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  color: #000000;
+  background-color: #f1df53;
+  border-color: #000000; 
+  content:"Minion Yellow";}
   
 .crujido-a2:hover:after{
-color: #fff;
+color: #000000;
 border-color: #000000; 
-content: "#a9863a"}
+content: "#f1df53"}
 /******************A2*****************************/
 
 /******************A3*****************************/
@@ -957,7 +957,7 @@ content: "#a9863a"}
   color: #fff;
   background-color: #f1a053;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Sandy Brown";}
  
 .crujido-a3:hover:after{
 color: #fff;
@@ -975,7 +975,7 @@ content:"#f1a053";}
   color: #fff;
   background-color: #a9703a;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Copper";}  
   
 .crujido-a4:hover:after{
 color: #fff;
@@ -997,7 +997,7 @@ content:"#a9703a";}
   color: #fff;
   background-color: #a9863a;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Metallic Sunburst";}
   
 .crujido-m1:hover:after {
 color: #fff;
@@ -1007,55 +1007,55 @@ content:"#a9863a";}
 
 /******************M2*****************************/
 .crujido-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #fff2d5;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .crujido-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #fff2d5;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Papaya Whip";}
   
 .crujido-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#fff2d5";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .crujido-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #ffe5ab;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .crujido-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffe5ab;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Peach";}
   
 .crujido-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffe5ab";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .crujido-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .crujido-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White ";}  
   
 .crujido-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -1072,7 +1072,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #a9863a;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Metallic Sunburst";}
   
 .crujido-t1:hover:after {
 color: #fff;
@@ -1082,19 +1082,19 @@ content:"#a9863a ";}
 
 /******************T2*****************************/
 .crujido-t2 {
-  color: #fff;
+  color: #000000;
   background-color: #53f1a0;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .crujido-t2:after{
-  color: #fff;
+  color: #000000;
   background-color: #53f1a0;
-  border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  border-color: #000000; 
+  content:"Medium Spring Green";}
   
 .crujido-t2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#53f1a0";}
 /******************T2*****************************/
 
@@ -1108,7 +1108,7 @@ content:"#53f1a0";}
   color: #fff;
   background-color: #3aa970;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Jade";}
   
 .crujido-t3:hover:after {
 color: #fff;
@@ -1126,7 +1126,7 @@ content:"#3aa970";}
   color: #fff;
   background-color: #ea53f1;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Fuchsia";}
   
 .crujido-t4:hover:after {
 color: #fff;
@@ -1147,7 +1147,7 @@ content:"#ea53f1";}
   color: #fff;
   background-color: #a9863a;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Metallic Sunburst";}
   
 .crujido-c1:hover:after {
 color: #fff;
@@ -1157,19 +1157,19 @@ content:"#a9863a";}
 
 /******************C2*****************************/
 .crujido-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #fff2d5;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .crujido-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #fff2d5;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Papaya Whip";}
   
 .crujido-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#fff2d5";}
 /******************C2*****************************/
 
@@ -1183,7 +1183,7 @@ content:"#fff2d5";}
   color: #fff;
   background-color: #666bf1;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Neon Blue";}
   
 .crujido-c3:hover:after {
 color: #fff;
@@ -1201,7 +1201,7 @@ content:"#666bf1";}
   color: #fff;
   background-color: #484ba9;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Violet Blue";}
   
 .crujido-c4:hover:after {
 color: #fff;
@@ -1222,7 +1222,7 @@ content:"#484ba9";}
   color: #fff;
   background-color: #822421;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Falu Red";}
 
 .alizarin-a1:hover:after{
 color: #fff;
@@ -1240,7 +1240,7 @@ content: "#822421"}
   color: #fff;
   background-color: #b9682f;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Live Dogs";}
   
 .alizarin-a2:hover:after{
 color: #fff;
@@ -1258,7 +1258,7 @@ content: "#b9682f"}
   color: #fff;
   background-color: #b92f90;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Fandango";}
  
 .alizarin-a3:hover:after{
 color: #fff;
@@ -1276,7 +1276,7 @@ content:"#b92f90";}
   color: #fff;
   background-color: #822165;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Byzantium";}  
   
 .alizarin-a4:hover:after{
 color: #fff;
@@ -1298,7 +1298,7 @@ content:"#822165";}
   color: #fff;
   background-color: #822421;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Falu Red";}
   
 .alizarin-m1:hover:after {
 color: #fff;
@@ -1308,55 +1308,55 @@ content:"#822421";}
 
 /******************M2*****************************/
 .alizarin-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #ffd1cf;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .alizarin-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffd1cf;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Baby Pink";}
   
 .alizarin-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffd1cf";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .alizarin-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #ffa3a0;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .alizarin-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffa3a0;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Melon";}
   
 .alizarin-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffa3a0";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .alizarin-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .alizarin-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White ";}  
   
 .alizarin-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -1373,7 +1373,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #822421;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Falu Red";}
   
 .alizarin-t1:hover:after {
 color: #fff;
@@ -1391,7 +1391,7 @@ content:"#822421 ";}
   color: #fff;
   background-color: #b5b92f;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Acid Green";}
   
 .alizarin-t2:hover:after {
 color: #fff;
@@ -1409,7 +1409,7 @@ content:"#b5b92f";}
   color: #fff;
   background-color: #7f8221;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Olive";}
   
 .alizarin-t3:hover:after {
 color: #fff;
@@ -1427,7 +1427,7 @@ content:"#7f8221";}
   color: #fff;
   background-color: #3150b9;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Cerulean Blue";}
   
 .alizarin-t4:hover:after {
 color: #fff;
@@ -1448,7 +1448,7 @@ content:"#3150b9";}
   color: #fff;
   background-color: #822421;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Falu Red";}
   
 .alizarin-c1:hover:after {
 color: #fff;
@@ -1458,19 +1458,19 @@ content:"#822421";}
 
 /******************C2*****************************/
 .alizarin-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #ffd1cf;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .alizarin-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffd1cf;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Baby Pink";}
   
 .alizarin-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#ffd1cf";}
 /******************C2*****************************/
 
@@ -1484,7 +1484,7 @@ content:"#ffd1cf";}
   color: #fff;
   background-color: #2fb939;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Dark Pastel Green";}
   
 .alizarin-c3:hover:after {
 color: #fff;
@@ -1502,7 +1502,7 @@ content:"#2fb939";}
   color: #fff;
   background-color: #218228;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Forest Green Web";}
   
 .alizarin-c4:hover:after {
 color: #fff;
@@ -1523,7 +1523,7 @@ content:"#218228";}
   color: #fff;
   background-color: #6a3025;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Liver Organ";}
 
 .escarlata-a1:hover:after{
 color: #fff;
@@ -1541,7 +1541,7 @@ content: "#6a3025"}
   color: #fff;
   background-color: #986535;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Golden Brown";}
   
 .escarlata-a2:hover:after{
 color: #fff;
@@ -1559,7 +1559,7 @@ content: "#986535"}
   color: #fff;
   background-color: #983567;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Amaranth";}
  
 .escarlata-a3:hover:after{
 color: #fff;
@@ -1577,7 +1577,7 @@ content:"#983567";}
   color: #fff;
   background-color: #6a2548;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Pansy Purple";}  
   
 .escarlata-a4:hover:after{
 color: #fff;
@@ -1599,7 +1599,7 @@ content:"#6a2548";}
   color: #fff;
   background-color: #6a3025;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Liver Organ";}
   
 .escarlata-m1:hover:after {
 color: #fff;
@@ -1609,55 +1609,55 @@ content:"#6a3025";}
 
 /******************M2*****************************/
 .escarlata-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #ffdcd5;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .escarlata-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffdcd5;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Misty Rose";}
   
 .escarlata-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffdcd5";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .escarlata-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #ffb9ac;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .escarlata-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffb9ac;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Melon";}
   
 .escarlata-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffb9ac";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .escarlata-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .escarlata-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White";}  
   
 .escarlata-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -1674,7 +1674,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #6a3025;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Liver Organ";}
   
 .escarlata-t1:hover:after {
 color: #fff;
@@ -1692,7 +1692,7 @@ content:"#6a3025 ";}
   color: #fff;
   background-color: #889835;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Olive Drab";}
   
 .escarlata-t2:hover:after {
 color: #fff;
@@ -1710,7 +1710,7 @@ content:"#889835";}
   color: #fff;
   background-color: #5f6a25;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Dark Olive Green";}
   
 .escarlata-t3:hover:after {
 color: #fff;
@@ -1728,7 +1728,7 @@ content:"#5f6a25";}
   color: #fff;
   background-color: #404598;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Dark Slate Blue";}
   
 .escarlata-t4:hover:after {
 color: #fff;
@@ -1749,7 +1749,7 @@ content:"#404598";}
   color: #fff;
   background-color: #6a3025;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Liver Organ";}
   
 .escarlata-c1:hover:after {
 color: #fff;
@@ -1759,19 +1759,19 @@ content:"#6a3025";}
 
 /******************C2*****************************/
 .escarlata-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #ffdcd5;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .escarlata-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffdcd5;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Misty Rose";}
   
 .escarlata-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#ffdcd5";}
 /******************C2*****************************/
 
@@ -1785,7 +1785,7 @@ content:"#ffdcd5";}
   color: #fff;
   background-color: #359861;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Shamrock Green";}
   
 .escarlata-c3:hover:after {
 color: #fff;
@@ -1796,19 +1796,19 @@ content:"#359861";}
 /******************C4*****************************/
 .escarlata-c4 {
   color: #fff;
-  background-color: #359861;
+  background-color: #256a44;
   border-color: #ffffff; }
   
   .escarlata-c4:after{
   color: #fff;
-  background-color: #359861;
+  background-color: #256a44;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Dark Spring Green";}
   
 .escarlata-c4:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#359861";}
+content:"#256a44";}
 /******************C4*****************************/
 /*************************************************Complementarios*************************************************/
 
@@ -1824,7 +1824,7 @@ content:"#359861";}
   color: #fff;
   background-color: #46252c;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Dark Sienna";}
 
 .arandano-a1:hover:after{
 color: #fff;
@@ -1842,7 +1842,7 @@ content: "#46252c"}
   color: #fff;
   background-color: #644335;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Van Dyke Brown";}
   
 .arandano-a2:hover:after{
 color: #fff;
@@ -1860,7 +1860,7 @@ content: "#644335"}
   color: #fff;
   background-color: #64355e;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Palatinate Purple";}
  
 .arandano-a3:hover:after{
 color: #fff;
@@ -1878,7 +1878,7 @@ content:"#64355e";}
   color: #fff;
   background-color: #462542;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Dark Purple";}  
   
 .arandano-a4:hover:after{
 color: #fff;
@@ -1900,7 +1900,7 @@ content:"#462542";}
   color: #fff;
   background-color: #46252c;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Dark Sienna";}
   
 .arandano-m1:hover:after {
 color: #fff;
@@ -1910,15 +1910,15 @@ content:"#46252c";}
 
 /******************M2*****************************/
 .arandano-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #ffe1e8;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .arandano-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffe1e8;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Piggy Pink";}
   
 .arandano-m2:hover:after {
 color: #fff;
@@ -1928,37 +1928,37 @@ content:"#ffe1e8";}
 
 /******************M3*****************************/
 .arandano-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #ffc3d1;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .arandano-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffc3d1;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Pink";}
   
 .arandano-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffc3d1";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .arandano-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .arandano-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White ";}  
   
 .arandano-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -1975,7 +1975,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #46252c;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Dark Sienna";}
   
 .arandano-t1:hover:after {
 color: #fff;
@@ -1993,7 +1993,7 @@ content:"#46252c ";}
   color: #fff;
   background-color: #646135;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Antique Bronze";}
   
 .arandano-t2:hover:after {
 color: #fff;
@@ -2011,7 +2011,7 @@ content:"#646135";}
   color: #fff;
   background-color: #464425;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Rifle Green";}
   
 .arandano-t3:hover:after {
 color: #fff;
@@ -2029,7 +2029,7 @@ content:"#464425";}
   color: #fff;
   background-color: #354864;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Independence";}
   
 .arandano-t4:hover:after {
 color: #fff;
@@ -2050,7 +2050,7 @@ content:"#354864";}
   color: #fff;
   background-color: #46252c;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Dark Sienna";}
   
 .arandano-c1:hover:after {
 color: #fff;
@@ -2060,19 +2060,19 @@ content:"#46252c";}
 
 /******************C2*****************************/
 .arandano-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #ffe1e8;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .arandano-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffe1e8;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Piggy Pink";}
   
 .arandano-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#ffe1e8";}
 /******************C2*****************************/
 
@@ -2086,7 +2086,7 @@ content:"#ffe1e8";}
   color: #fff;
   background-color: #3a6435;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Hunter Green";}
   
 .arandano-c3:hover:after {
 color: #fff;
@@ -2104,7 +2104,7 @@ content:"#3a6435";}
   color: #fff;
   background-color: #294625;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Forest Green Traditional";}
   
 .arandano-c4:hover:after {
 color: #fff;
@@ -2125,7 +2125,7 @@ content:"#294625";}
   color: #fff;
   background-color: #3a3f43;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Onyx";}
 
 .cromo-a1:hover:after{
 color: #fff;
@@ -2143,7 +2143,7 @@ content: "#3a3f43"}
   color: #fff;
   background-color: #555560;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Davys Grey";}
   
 .cromo-a2:hover:after{
 color: #fff;
@@ -2161,7 +2161,7 @@ content: "#555560"}
   color: #fff;
   background-color: #53605b;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Feldgrau";}
  
 .cromo-a3:hover:after{
 color: #fff;
@@ -2179,7 +2179,7 @@ content:"#53605b";}
   color: #fff;
   background-color: #3a4340;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Black Olive";}  
   
 .cromo-a4:hover:after{
 color: #fff;
@@ -2201,7 +2201,7 @@ content:"#3a4340";}
   color: #fff;
   background-color: #3a3f43;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Onyx";}
   
 .cromo-m1:hover:after {
 color: #fff;
@@ -2211,55 +2211,55 @@ content:"#3a3f43";}
 
 /******************M2*****************************/
 .cromo-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #f6fbff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .cromo-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #f6fbff;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Alice Blue";}
   
 .cromo-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#f6fbff";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .cromo-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #eef7ff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .cromo-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #eef7ff;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Zumthor";}
   
 .cromo-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#eef7ff";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .cromo-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .cromo-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White";}  
   
 .cromo-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -2276,7 +2276,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #3a3f43;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Onyx";}
   
 .cromo-t1:hover:after {
 color: #fff;
@@ -2294,7 +2294,7 @@ content:"#3a3f43 ";}
   color: #fff;
   background-color: #605358;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Dark Liver";}
   
 .cromo-t2:hover:after {
 color: #fff;
@@ -2312,7 +2312,7 @@ content:"#605358";}
   color: #fff;
   background-color: #433a3e;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Black Coffee";}
   
 .cromo-t3:hover:after {
 color: #fff;
@@ -2330,7 +2330,7 @@ content:"#433a3e";}
   color: #fff;
   background-color: #605f53;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Ebony";}
   
 .cromo-t4:hover:after {
 color: #fff;
@@ -2351,7 +2351,7 @@ content:"#605f53";}
   color: #fff;
   background-color: #3a3f43;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Onyx";}
   
 .cromo-c1:hover:after {
 color: #fff;
@@ -2361,19 +2361,19 @@ content:"#3a3f43";}
 
 /******************C2*****************************/
 .cromo-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #f6fbff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .cromo-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #f6fbff;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Alice Blue";}
   
 .cromo-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#f6fbff";}
 /******************C2*****************************/
 
@@ -2387,7 +2387,7 @@ content:"#f6fbff";}
   color: #fff;
   background-color: #605a53;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Davys Grey";}
   
 .cromo-c3:hover:after {
 color: #fff;
@@ -2405,7 +2405,7 @@ content:"#605a53";}
   color: #fff;
   background-color: #433f3a;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Dark Lava";}
   
 .cromo-c4:hover:after {
 color: #fff;
@@ -2426,7 +2426,7 @@ content:"#433f3a";}
   color: #fff;
   background-color: #231f30;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Raisin Black";}
 
 .motocross-a1:hover:after{
 color: #fff;
@@ -2444,7 +2444,7 @@ content: "#231f30"}
   color: #fff;
   background-color: #392b44;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Dark Purple";}
   
 .motocross-a2:hover:after{
 color: #fff;
@@ -2462,7 +2462,7 @@ content: "#392b44"}
   color: #fff;
   background-color: #2b3444;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Gunmetal";}
  
 .motocross-a3:hover:after{
 color: #fff;
@@ -2480,7 +2480,7 @@ content:"#2b3444";}
   color: #fff;
   background-color: #1e2530;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Ebony Clay";}  
   
 .motocross-a4:hover:after{
 color: #fff;
@@ -2502,7 +2502,7 @@ content:"#1e2530";}
   color: #fff;
   background-color: #231f30;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Raisin Black";}
   
 .motocross-m1:hover:after {
 color: #fff;
@@ -2512,55 +2512,55 @@ content:"#231f30";}
 
 /******************M2*****************************/
 .motocross-m2 {
-  color: #fff;
+  color: #000000;
   background-color: #ede9ff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .motocross-m2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ede9ff;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Lavender Web";}
   
 .motocross-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ede9ff";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .motocross-m3 {
-  color: #fff;
+  color: #000000;
   background-color: #dcd3ff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
   .motocross-m3:after{
-  color: #fff;
+  color: #000000;
   background-color: #dcd3ff;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  border-color: #000000; 
+  content:"Lavender Blue";}
   
 .motocross-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#dcd3ff";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .motocross-m4 {
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .motocross-m4:after{
-  color: #fff;
+  color: #000000;
   background-color: #ffffff;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  border-color: #000000; 
+  content:"White";}  
   
 .motocross-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
+color: #000000;
+border-color: #000000; 
 content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
@@ -2577,7 +2577,7 @@ content:"#ffffff";}
   color: #fff;
   background-color: #231f30;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Raisin Black";}
   
 .motocross-t1:hover:after {
 color: #fff;
@@ -2595,7 +2595,7 @@ content:"#231f30 ";}
   color: #fff;
   background-color: #44332b;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Bistre";}
   
 .motocross-t2:hover:after {
 color: #fff;
@@ -2613,7 +2613,7 @@ content:"#44332b";}
   color: #fff;
   background-color: #30241e;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Cocoa Brown";}
   
 .motocross-t3:hover:after {
 color: #fff;
@@ -2631,7 +2631,7 @@ content:"#30241e";}
   color: #fff;
   background-color: #3c442b;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Rifle Green";}
   
 .motocross-t4:hover:after {
 color: #fff;
@@ -2652,7 +2652,7 @@ content:"#3c442b";}
   color: #fff;
   background-color: #231f30;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Raisin Black";}
   
 .motocross-c1:hover:after {
 color: #fff;
@@ -2662,19 +2662,19 @@ content:"#231f30";}
 
 /******************C2*****************************/
 .motocross-c2 {
-  color: #fff;
+  color: #000000;
   background-color: #ede9ff;
-  border-color: #ffffff; }
+  border-color: #000000; }
   
 .motocross-c2:after{
-  color: #fff;
+  color: #000000;
   background-color: #ede9ff;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  border-color: #000000;
+  content:"Lavender Web";}
   
 .motocross-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
+color: #000000;
+border-color: #000000;
 content:"#ede9ff";}
 /******************C2*****************************/
 
@@ -2688,7 +2688,7 @@ content:"#ede9ff";}
   color: #fff;
   background-color: #443e2b;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Olive Drab";}
   
 .motocross-c3:hover:after {
 color: #fff;
@@ -2706,7 +2706,7 @@ content:"#443e2b";}
   color: #fff;
   background-color: #302b1e;
   border-color: #ffffff;
-  content:"KSU Purple";}
+  content:"Birch";}
   
 .motocross-c4:hover:after {
 color: #fff;
