@@ -34,7 +34,7 @@ body {
   /* font-family: Zelda; src:('fonts/Zelda/ZELDA400.otf') !important; */
 }
 /*Generales*/
-.bg-banquete{background-color: #DCAA25!important;}
+/* .bg-banquete{background-color: #DCAA25!important;} */
 .text-banquete{color:#FDF6CE}
 
 /**************************************************Análogos*************************************************/
@@ -108,7 +108,7 @@ content:"#DC9C25";}
 .btn-a4:hover:after{
 color: #fff;
 border-color: #000000; 
-content:"#9A6D1A";}
+content:"#9A6D1A";}  
 /******************A4*****************************/
 
 /**************************************************Análogos*************************************************/
