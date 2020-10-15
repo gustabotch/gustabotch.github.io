@@ -54,61 +54,61 @@ body {
 .btn-a1:hover:after{
 color: #fff;
 border-color: #000000; 
-content: " #9A871A"}
+content: "#9a871a"}
 /******************A1*****************************/
 
 /******************A2*****************************/
 .btn-a2 {
-  color: #fff;
+  color: #ffffff;
   background-color: #c9dc25;
   border-color: #ffffff; }
   
 .btn-a2:after {
-  color: #fff;
+  color: #000000;
   background-color: #c9dc25;
   border-color: #ffffff; 
   content:"Bitter Lemon";}
   
 .btn-a2:hover:after{
-color: #fff;
-border-color: #000000; 
-content: "#C9DC25"}
+color: #000000;
+border-color: #ffffff; 
+content: "#c9dc25"}
 /******************A2*****************************/
 
 /******************A3*****************************/
 .btn-a3 {
-  color: #fff;
+  color: #000000;
   background-color: #dc9c25;
   border-color: #ffffff }
  
  .btn-a3:after {
-  color: #fff;
+  color: #000000;
   background-color: #dc9c25;
   border-color: #ffffff; 
   content:"Gamboge";}
  
 .btn-a3:hover:after{
-color: #fff;
-border-color: #000000; 
-content:"#DC9C25";}
+color: #000000;
+border-color: #ffffff; 
+content:"#dc9c25";}
 /******************A3*****************************/
 
 /******************A4*****************************/
 .btn-a4 {
-  color: #fff;
+  color: #000000;
   background-color: #9a6d1a;
   border-color: #ffffff; }
   
 .btn-a4:after {
-  color: #fff;
+  color: #000000;
   background-color: #9a6d1a;
   border-color: #ffffff; 
   content:"Golden Brown";}  
   
 .btn-a4:hover:after{
-color: #fff;
+color: #000000;
 border-color: #000000; 
-content:"#9A6D1A";}
+content:"#9a6d1a";}
 /******************A4*****************************/
 
 /**************************************************Análogos*************************************************/
@@ -118,73 +118,73 @@ content:"#9A6D1A";}
 /******************M1*****************************/
 .btn-m1 {
   color: #fff;
-  background-color: #968A23;
+  background-color: #9a871a;
   border-color: #ffffff; }
   
 .btn-m1:after{
   color: #fff;
-  background-color: #968A23;
+  background-color: #9a871a;
   border-color: #ffffff; 
   content:"Olive";}
   
 .btn-m1:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#968A23";}
+content:"#9a871a";}
 /******************M1*****************************/
 
 /******************M2*****************************/
 .btn-m2 {
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff; }
+  color: #000000;
+  background-color: #fff7ca;
+  border-color: #000000; }
   
 .btn-m2:after{
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  color: #000000;
+  background-color: #fff7ca;
+  border-color: #000000;
+  content:"Lemon Chiffon";}
   
 .btn-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
-content:"#252301";}
+color: #000000;
+border-color: #000000; 
+content:"#fff7ca";}
 /******************M2*****************************/
 
 /******************M3*****************************/
 .btn-m3 {
-  color: #fff;
-  background-color: #2E2902;
+  color: #000000;
+  background-color: #ffef95;
   border-color: #ffffff; }
   
   .btn-m3:after{
-  color: #fff;
-  background-color: #2E2902;
+  color: #000000;
+  background-color: #ffef95;
   border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  content:"Green Yellow Crayola";}
   
 .btn-m3:hover:after {
-color: #fff;
+color: #000000;
 border-color: #ffffff; 
-content:"#2E2902";}
+content:"#ffef95";}
 /******************M3*****************************/
 
 /******************M4*****************************/
 .btn-m4 {
-  color: #fff;
-  background-color: #121212;
-  border-color: #ffffff; }
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #000000; }
   
 .btn-m4:after{
-  color: #fff;
-  background-color: #121212;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #000000; 
+  content:"White ";}  
   
 .btn-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
-content:"#121212";}  
+color: #000000;
+border-color: #000000; 
+content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
 
@@ -285,20 +285,20 @@ content:"#9a871a";}
 
 /******************C2*****************************/
 .btn-c2 {
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff; }
+  color: #000000;
+  background-color: #fff7ca;
+  border-color: #000000; }
   
 .btn-c2:after{
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+  color: #000000;
+  background-color: #fff7ca;
+  border-color: #000000;
+  content:"Lemon Chiffon";}
   
 .btn-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
-content:"#252301";}
+color: #000000;
+border-color: #000000;
+content:"#fff7ca";}
 /******************C2*****************************/
 
 /******************C3*****************************/
@@ -336,4 +336,4 @@ color: #fff;
 border-color: #ffffff; 
 content:"#4a1a9a";}
 /******************C4*****************************/
-*************************************************Complementarios************************************************
+/*************************************************Complementarios************************************************/

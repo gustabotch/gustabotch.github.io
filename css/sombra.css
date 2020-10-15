@@ -1,114 +1,83 @@
 html,
 body {
-  height: 100%;
-    
+  height: 100%;    
   font-family: Alcubierre; src:('fonts/Alcubierre/Alcubierre.otf') !important; */
-  /* font-family: Amada; src:('fonts/amada/Amada-Regular.ttf') !important; */
-  /* font-family: arimo; src:('fonts/arimo/Arimo-Regular.ttf') !important; */
-  /* font-family: Athene; src:('fonts/AtheneFF/Athene.otf') !important; */
-  /* font-family: Atifa; src:('fonts/Atifa/Atifa.otf') !important; */
-  /* font-family: Besom 2; src:('fonts/Besom-Handwritten-Brush-Font/Besom-Handwritten-Brush-Font.ttf') !important; */
-  /* font-family: Casual; src:('fonts/CasualRegular/CasualRegular.ttf') !important; */
-  /* font-family: cutepunk; src:('fonts/Cutepunk_Regular/Cutepunk_Regular.otf') !important; */
-  /* font-family: Facunda; src:('fonts/Facunda/Facunda.otf') !important; */
-  /* font-family: Grenadier NF; src:('fonts/grenadier/GrenadierNF.otf') !important; */
-  /* font-family: Hesgaki; src:('fonts/Hesgaki-Luxury-Signature-Font/Hesgaki.otf') !important; */
-  /* font-family: Kano; src:('fonts/Kano_Regular/Kano.otf') !important; */
-  /* font-family: kirvy; src:('fonts/kirvy/Kirvy-Regular.otf') !important; */
-  /* font-family: korinna; src:('fonts/korinna/KORIN.ttf') !important; */
-  /* font-family: lena; src:('fonts/lena-ttf/Lena.ttf') !important; */
-  /* font-family: Mightype Script; src:('fonts/Mightype-Free-Handlettered-Script-Font/Mightype Script.otf') !important; */  
-  /* font-family: Milkshake; src:('fonts/Milkshake/Milkshake_3de45646d19b2839020f16d637766759.ttf') !important; */
-  /* font-family: montepetrum; src:('fonts/montepetrum/Montepetrumregular.ttf') !important; */
-  /* font-family: Montserrat; src:('fonts/montserrat/Montserrat-Regular.otf') !important; */
-  /* font-family: ONE DAY; src:('fonts/ONEDAY/ONEDAY.otf') !important; */
-  /* font-family: Open Sans; src:('fonts/OpenSans/OpenSans-Regular.ttf') !important; */
-  /* font-family: rainwood; src:('fonts/rainwood/rainwood.otf') !important; */
-  /* font-family: reckless sample; src:('fonts/reckless/reckless_sample.otf') !important; */
-  /* font-family: Salvador_Hand_v1; src:('fonts/Salvador_Hand_v1/Salvador_Hand_V1.otf') !important; */
-  /* font-family: selima; src:('fonts/selima/Selima.otf') !important; */
-  /* font-family:  shellahera script demo; src:('fonts/shellahera_script/ShellaheraScriptDemo.otf') !important; */
-  /* font-family: Flogreen; src:('fonts/SYNTHESIAFF/SYNTHESIA.ttf') !important; */
-  /* font-family: verona lotte; src:('fonts/verona_lotte/Verona Lotte Script.otf') !important; */
-  /* font-family: Wildera; src:('fonts/Wildera-Regular/Wildera-Regular.otf') !important; */
-  /* font-family: Zelda; src:('fonts/Zelda/ZELDA400.otf') !important; */
 }
 /*Generales*/
-/* .bg-banquete{background-color: #DCAA25!important;} */
 .text-banquete{color:#FDF6CE}
 
 /**************************************************Análogos*************************************************/
 
 /******************A1*****************************/
-.btn-a1 {
-  color: #fff;
-  background-color: #9a871a;
+.koala-a1 {
+  color: #fff;  
+  background-color: #90969a;
   border-color: #ffffff;}
   
-.btn-a1:after {
+.koala-a1:after {
   color: #fff;
-  background-color: #9a871a;
+  background-color: #90969a;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Spanish Gray";}
 
-.btn-a1:hover:after{
+.koala-a1:hover:after{
 color: #fff;
 border-color: #000000; 
-content: " #9A871A"}
+content: "#90969a"}
 /******************A1*****************************/
 
 /******************A2*****************************/
-.btn-a2 {
+.koala-a2 {
   color: #fff;
-  background-color: #c9dc25;
+  background-color: #cfcfdc;
   border-color: #ffffff; }
   
-.btn-a2:after {
+.koala-a2:after {
   color: #fff;
-  background-color: #c9dc25;
+  background-color: #cfcfdc;
   border-color: #ffffff; 
-  content:"Bitter Lemon";}
+  content:"Lavender Gray";}
   
-.btn-a2:hover:after{
+.koala-a2:hover:after{
 color: #fff;
 border-color: #000000; 
-content: "#C9DC25"}
+content: "#cfcfdc"}
 /******************A2*****************************/
 
 /******************A3*****************************/
-.btn-a3 {
+.koala-a3 {
   color: #fff;
-  background-color: #dc9c25;
+  background-color: #cddcd5;
   border-color: #ffffff }
  
- .btn-a3:after {
+ .koala-a3:after {
   color: #fff;
-  background-color: #dc9c25;
+  background-color: #cddcd5;
   border-color: #ffffff; 
-  content:"Gamboge";}
+  content:"Ash Gray";}
  
-.btn-a3:hover:after{
+.koala-a3:hover:after{
 color: #fff;
 border-color: #000000; 
-content:"#DC9C25";}
+content:"#cddcd5";}
 /******************A3*****************************/
 
 /******************A4*****************************/
-.btn-a4 {
+.koala-a4 {
   color: #fff;
-  background-color: #9a6d1a;
+  background-color: #909a95;
   border-color: #ffffff; }
   
-.btn-a4:after {
+.koala-a4:after {
   color: #fff;
-  background-color: #9a6d1a;
+  background-color: #909a95;
   border-color: #ffffff; 
-  content:"Golden Brown";}  
+  content:"Morning Blue";}  
   
-.btn-a4:hover:after{
+.koala-a4:hover:after{
 color: #fff;
 border-color: #000000; 
-content:"#9A6D1A";}  
+content:"#909a95";}  
 /******************A4*****************************/
 
 /**************************************************Análogos*************************************************/
@@ -116,224 +85,2632 @@ content:"#9A6D1A";}
 /**************************************************Mono*************************************************/
 
 /******************M1*****************************/
-.btn-m1 {
+.koala-m1 {
   color: #fff;
-  background-color: #968A23;
+  background-color: #90969a;
   border-color: #ffffff; }
   
-.btn-m1:after{
+.koala-m1:after{
   color: #fff;
-  background-color: #968A23;
+  background-color: #90969a;
   border-color: #ffffff; 
-  content:"Olive";}
+  content:"Spanish Gray";}
   
-.btn-m1:hover:after {
+.koala-m1:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#968A23";}
+content:"#90969a";}
 /******************M1*****************************/
 
 /******************M2*****************************/
-.btn-m2 {
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff; }
+.koala-m2 {
+  color: #000000;
+  background-color: #fbfdff;
+  border-color: #000000; }
   
-.btn-m2:after{
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+.koala-m2:after{
+  color: #000000;
+  background-color: #fbfdff;
+  border-color: #000000;
+  content:"Zircon";}
   
-.btn-m2:hover:after {
-color: #fff;
-border-color: #ffffff; 
-content:"#252301";}
+.koala-m2:hover:after {
+color: #000000;
+border-color: #000000; 
+content:"#fbfdff";}
 /******************M2*****************************/
 
 /******************M3*****************************/
-.btn-m3 {
-  color: #fff;
-  background-color: #2E2902;
-  border-color: #ffffff; }
+.koala-m3 {
+  color: #000000;
+  background-color: #f6fbff;
+  border-color: #000000; }
   
-  .btn-m3:after{
-  color: #fff;
-  background-color: #2E2902;
-  border-color: #ffffff; 
-  content:"Olive Drab 6";}
+  .koala-m3:after{
+  color: #000000;
+  background-color: #f6fbff;
+  border-color: #000000; 
+  content:"Alice Blue";}
   
-.btn-m3:hover:after {
-color: #fff;
-border-color: #ffffff; 
-content:"#2E2902";}
+.koala-m3:hover:after {
+color: #000000;
+border-color: #000000; 
+content:"#f6fbff";}
 /******************M3*****************************/
 
 /******************M4*****************************/
-.btn-m4 {
-  color: #fff;
-  background-color: #121212;
-  border-color: #ffffff; }
+.koala-m4 {
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #000000; }
   
-.btn-m4:after{
-  color: #fff;
-  background-color: #121212;
-  border-color: #ffffff; 
-  content:"Rich Black ";}  
+.koala-m4:after{
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #000000; 
+  content:"White";}  
   
-.btn-m4:hover:after {
-color: #fff;
-border-color: #ffffff; 
-content:"#121212";}  
+.koala-m4:hover:after {
+color: #000000;
+border-color: #000000; 
+content:"#ffffff";}  
 /******************M4*****************************/
 /**************************************************Mono*************************************************/
 
 /**************************************************Triada*************************************************/
 
 /******************T1*****************************/
-.btn-t1 {
+.koala-t1 {
   color: #fff;
-  background-color: #9a871a;
+  background-color: #90969a;
   border-color: #ffffff; }
   
-.btn-t1:after{
+.koala-t1:after{
   color: #fff;
-  background-color: #9a871a;
+  background-color: #90969a;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Spanish Gray";}
   
-.btn-t1:hover:after {
+.koala-t1:hover:after {
 color: #fff;
 border-color: #ffffff;
-content:"#9a871a ";}
+content:"#90969a ";}
 /******************T1*****************************/
 
 /******************T2*****************************/
-.btn-t2 {
+.koala-t2 {
   color: #fff;
-  background-color: #25b0dc;
+  background-color: #dccdd4;
   border-color: #ffffff; }
   
-  .btn-t2:after{
+  .koala-t2:after{
   color: #fff;
-  background-color: #25b0dc;
+  background-color: #dccdd4;
   border-color: #ffffff; 
-  content:"Cerulean Crayola";}
+  content:"Languid Lavender";}
   
-.btn-t2:hover:after {
+.koala-t2:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#25b0dc";}
+content:"#dccdd4";}
 /******************T2*****************************/
 
 /******************T3*****************************/
-.btn-t3 {
+.koala-t3 {
   color: #fff;
-  background-color: #1a7b9a;
+  background-color: #9a9094;
   border-color: #ffffff; }
   
-.btn-t3:after{
+.koala-t3:after{
   color: #fff;
-  background-color: #1a7b9a;
+  background-color: #9a9094;
   border-color: #ffffff; 
-  content:"CG Blue";}
+  content:"Taupe Gray";}
   
-.btn-t3:hover:after {
+.koala-t3:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#1a7b9a";}
+content:"#9a9094";}
 /******************T3*****************************/
 
 /******************T4*****************************/
-.btn-t4 {
+.koala-t4 {
   color: #fff;
-  background-color: #dc258f;
+  background-color: #dcdacd;
   border-color: #ffffff; }
   
-  .btn-t4:after{
+  .koala-t4:after{
   color: #fff;
-  background-color: #dc258f;
+  background-color: #dcdacd;
   border-color: #ffffff; 
-  content:"Barbie Pink";}
+  content:"Bone";}
   
-.btn-t4:hover:after {
+.koala-t4:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#dc258f";}
+content:"#dcdacd";}
 /******************T4*****************************/
 
 /**************************************************Triada*************************************************/
 
 /**************************************************Complementarios*************************************************/
 /******************C1*****************************/
-.btn-c1 {
+.koala-c1 {
   color: #fff;
-  background-color: #9a871a;
+  background-color: #90969a;
   border-color: #ffffff; }
   
-.btn-c1:after{
+.koala-c1:after{
   color: #fff;
-  background-color: #9a871a;
+  background-color: #90969a;
   border-color: #ffffff;
-  content:"Olive";}
+  content:"Spanish Gray";}
   
-.btn-c1:hover:after {
+.koala-c1:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#9a871a";}
+content:"#90969a";}
 /******************C1*****************************/
 
 /******************C2*****************************/
-.btn-c2 {
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff; }
+.koala-c2 {
+  color: #000000;
+  background-color: #fbfdff;
+  border-color: #000000; }
   
-.btn-c2:after{
-  color: #fff;
-  background-color: #252301;
-  border-color: #ffffff;
-  content:"Olive Drab 7";}
+.koala-c2:after{
+  color: #000000;
+  background-color: #fbfdff;
+  border-color: #000000;
+  content:"Zircon";}
   
-.btn-c2:hover:after {
-color: #fff;
-border-color: #ffffff;
-content:"#252301";}
+.koala-c2:hover:after {
+color: #000000;
+border-color: #000000;
+content:"#fbfdff";}
 /******************C2*****************************/
 
 /******************C3*****************************/
-.btn-c3 {
+.koala-c3 {
   color: #fff;
-  background-color: #6a25dc;
+  background-color: #dcd4cd;
   border-color: #ffffff; }
   
-.btn-c3:after{
+.koala-c3:after{
   color: #fff;
-  background-color: #6a25dc;
+  background-color: #dcd4cd;
   border-color: #ffffff;
-  content:"Han Purple";}
+  content:"Timberwolf";}
   
-.btn-c3:hover:after {
+.koala-c3:hover:after {
 color: #fff;
-border-color: #6a25dc; 
-content:"#6a25dc";}
+border-color: #fffff; 
+content:"#dcd4cd";}
 /******************C3*****************************/
 
 /******************C4*****************************/
-.btn-c4 {
+.koala-c4 {
   color: #fff;
-  background-color: #4a1a9a;
+  background-color: #9a9590;
   border-color: #ffffff; }
   
-  .btn-c4:after{
+  .koala-c4:after{
   color: #fff;
-  background-color: #4a1a9a;
+  background-color: #9a9590;
+  border-color: #ffffff;
+  content:"Zorba";}
+  
+.koala-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#9a9590";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.madrigal-a1 {
+  color: #fff;  
+  background-color: #889e9d;
+  border-color: #ffffff;}
+  
+.madrigal-a1:after {
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.madrigal-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#889e9d"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.madrigal-a2 {
+  color: #fff;
+  background-color: #c2cbe2;
+  border-color: #ffffff; }
+  
+.madrigal-a2:after {
+  color: #fff;
+  background-color: #c2cbe2;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.madrigal-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#c2cbe2"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.madrigal-a3 {
+  color: #fff;
+  background-color: #c3e2c2;
+  border-color: #ffffff }
+ 
+ .madrigal-a3:after {
+  color: #fff;
+  background-color: #c3e2c2;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.madrigal-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#c3e2c2";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.madrigal-a4 {
+  color: #fff;
+  background-color: #899e88;
+  border-color: #ffffff; }
+  
+.madrigal-a4:after {
+  color: #fff;
+  background-color: #899e88;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.madrigal-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#899e88";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.madrigal-m1 {
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff; }
+  
+.madrigal-m1:after{
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.madrigal-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#889e9d";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.madrigal-m2 {
+  color: #fff;
+  background-color: #f6fffe;
+  border-color: #ffffff; }
+  
+.madrigal-m2:after{
+  color: #fff;
+  background-color: #f6fffe;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.madrigal-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#f6fffe";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.madrigal-m3 {
+  color: #fff;
+  background-color: #edfffe;
+  border-color: #ffffff; }
+  
+  .madrigal-m3:after{
+  color: #fff;
+  background-color: #edfffe;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.madrigal-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#edfffe";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.madrigal-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.madrigal-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.madrigal-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.madrigal-t1 {
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff; }
+  
+.madrigal-t1:after{
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.madrigal-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#889e9d ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.madrigal-t2 {
+  color: #fff;
+  background-color: #e2c2db;
+  border-color: #ffffff; }
+  
+  .madrigal-t2:after{
+  color: #fff;
+  background-color: #e2c2db;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.madrigal-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#e2c2db";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.madrigal-t3 {
+  color: #fff;
+  background-color: #9e8899;
+  border-color: #ffffff; }
+  
+.madrigal-t3:after{
+  color: #fff;
+  background-color: #9e8899;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.madrigal-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#9e8899";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.madrigal-t4 {
+  color: #fff;
+  background-color: #e2dbc2;
+  border-color: #ffffff; }
+  
+  .madrigal-t4:after{
+  color: #fff;
+  background-color: #e2dbc2;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.madrigal-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#e2dbc2";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.madrigal-c1 {
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff; }
+  
+.madrigal-c1:after{
+  color: #fff;
+  background-color: #889e9d;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.madrigal-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#889e9d";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.madrigal-c2 {
+  color: #fff;
+  background-color: #f6fffe;
+  border-color: #ffffff; }
+  
+.madrigal-c2:after{
+  color: #fff;
+  background-color: #f6fffe;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.madrigal-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#f6fffe";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.madrigal-c3 {
+  color: #fff;
+  background-color: #e2cec2;
+  border-color: #ffffff; }
+  
+.madrigal-c3:after{
+  color: #fff;
+  background-color: #e2cec2;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.madrigal-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#e2cec2";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.madrigal-c4 {
+  color: #fff;
+  background-color: #9e9088;
+  border-color: #ffffff; }
+  
+  .madrigal-c4:after{
+  color: #fff;
+  background-color: #9e9088;
   border-color: #ffffff;
   content:"KSU Purple";}
   
-.btn-c4:hover:after {
+.madrigal-c4:hover:after {
 color: #fff;
 border-color: #ffffff; 
-content:"#4a1a9a";}
+content:"#9e9088";}
 /******************C4*****************************/
-*************************************************Complementarios************************************************
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.plinto-a1 {
+  color: #fff;  
+  background-color: #242b2b;
+  border-color: #ffffff;}
+  
+.plinto-a1:after {
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.plinto-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#242b2b"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.plinto-a2 {
+  color: #fff;
+  background-color: #33363e;
+  border-color: #ffffff; }
+  
+.plinto-a2:after {
+  color: #fff;
+  background-color: #33363e;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.plinto-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#33363e"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.plinto-a3 {
+  color: #fff;
+  background-color: #343e33;
+  border-color: #ffffff }
+ 
+ .plinto-a3:after {
+  color: #fff;
+  background-color: #343e33;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.plinto-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#343e33";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.plinto-a4 {
+  color: #fff;
+  background-color: #242b24;
+  border-color: #ffffff; }
+  
+.plinto-a4:after {
+  color: #fff;
+  background-color: #242b24;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.plinto-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#242b24";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.plinto-m1 {
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff; }
+  
+.plinto-m1:after{
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.plinto-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#242b2b";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.plinto-m2 {
+  color: #fff;
+  background-color: #f4fffe;
+  border-color: #ffffff; }
+  
+.plinto-m2:after{
+  color: #fff;
+  background-color: #f4fffe;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.plinto-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#f4fffe";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.plinto-m3 {
+  color: #fff;
+  background-color: #e8fffd;
+  border-color: #ffffff; }
+  
+  .plinto-m3:after{
+  color: #fff;
+  background-color: #e8fffd;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.plinto-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#e8fffd";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.plinto-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.plinto-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.plinto-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.plinto-t1 {
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff; }
+  
+.plinto-t1:after{
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.plinto-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#242b2b ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.plinto-t2 {
+  color: #fff;
+  background-color: #3e333c;
+  border-color: #ffffff; }
+  
+  .plinto-t2:after{
+  color: #fff;
+  background-color: #3e333c;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.plinto-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3e333c";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.plinto-t3 {
+  color: #fff;
+  background-color: #2b242a;
+  border-color: #ffffff; }
+  
+.plinto-t3:after{
+  color: #fff;
+  background-color: #2b242a;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.plinto-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#2b242a";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.plinto-t4 {
+  color: #fff;
+  background-color: #3e3c33;
+  border-color: #ffffff; }
+  
+  .plinto-t4:after{
+  color: #fff;
+  background-color: #3e3c33;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.plinto-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3e3c33";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.plinto-c1 {
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff; }
+  
+.plinto-c1:after{
+  color: #fff;
+  background-color: #242b2b;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.plinto-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#242b2b";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.plinto-c2 {
+  color: #fff;
+  background-color: #f4fffe;
+  border-color: #ffffff; }
+  
+.plinto-c2:after{
+  color: #fff;
+  background-color: #f4fffe;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.plinto-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#f4fffe";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.plinto-c3 {
+  color: #fff;
+  background-color: #3e3733;
+  border-color: #ffffff; }
+  
+.plinto-c3:after{
+  color: #fff;
+  background-color: #3e3733;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.plinto-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#3e3733";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.plinto-c4 {
+  color: #fff;
+  background-color: #2b2624;
+  border-color: #ffffff; }
+  
+  .plinto-c4:after{
+  color: #fff;
+  background-color: #2b2624;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.plinto-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#2b2624";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.crujido-a1 {
+  color: #fff;  
+  background-color: #a9863a;
+  border-color: #ffffff;}
+  
+.crujido-a1:after {
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.crujido-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#a9863a"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.crujido-a2 {
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; }
+  
+.crujido-a2:after {
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.crujido-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#a9863a"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.crujido-a3 {
+  color: #fff;
+  background-color: #f1a053;
+  border-color: #ffffff }
+ 
+ .crujido-a3:after {
+  color: #fff;
+  background-color: #f1a053;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.crujido-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#f1a053";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.crujido-a4 {
+  color: #fff;
+  background-color: #a9703a;
+  border-color: #ffffff; }
+  
+.crujido-a4:after {
+  color: #fff;
+  background-color: #a9703a;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.crujido-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#a9703a";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.crujido-m1 {
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; }
+  
+.crujido-m1:after{
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.crujido-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#a9863a";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.crujido-m2 {
+  color: #fff;
+  background-color: #fff2d5;
+  border-color: #ffffff; }
+  
+.crujido-m2:after{
+  color: #fff;
+  background-color: #fff2d5;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.crujido-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#fff2d5";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.crujido-m3 {
+  color: #fff;
+  background-color: #ffe5ab;
+  border-color: #ffffff; }
+  
+  .crujido-m3:after{
+  color: #fff;
+  background-color: #ffe5ab;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.crujido-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffe5ab";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.crujido-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.crujido-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.crujido-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.crujido-t1 {
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; }
+  
+.crujido-t1:after{
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.crujido-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#a9863a ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.crujido-t2 {
+  color: #fff;
+  background-color: #53f1a0;
+  border-color: #ffffff; }
+  
+  .crujido-t2:after{
+  color: #fff;
+  background-color: #53f1a0;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.crujido-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#53f1a0";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.crujido-t3 {
+  color: #fff;
+  background-color: #3aa970;
+  border-color: #ffffff; }
+  
+.crujido-t3:after{
+  color: #fff;
+  background-color: #3aa970;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.crujido-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3aa970";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.crujido-t4 {
+  color: #fff;
+  background-color: #ea53f1;
+  border-color: #ffffff; }
+  
+  .crujido-t4:after{
+  color: #fff;
+  background-color: #ea53f1;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.crujido-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ea53f1";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.crujido-c1 {
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff; }
+  
+.crujido-c1:after{
+  color: #fff;
+  background-color: #a9863a;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.crujido-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#a9863a";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.crujido-c2 {
+  color: #fff;
+  background-color: #fff2d5;
+  border-color: #ffffff; }
+  
+.crujido-c2:after{
+  color: #fff;
+  background-color: #fff2d5;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.crujido-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#fff2d5";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.crujido-c3 {
+  color: #fff;
+  background-color: #666bf1;
+  border-color: #ffffff; }
+  
+.crujido-c3:after{
+  color: #fff;
+  background-color: #666bf1;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.crujido-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#666bf1";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.crujido-c4 {
+  color: #fff;
+  background-color: #484ba9;
+  border-color: #ffffff; }
+  
+  .crujido-c4:after{
+  color: #fff;
+  background-color: #484ba9;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.crujido-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#484ba9";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.alizarin-a1 {
+  color: #fff;  
+  background-color: #822421;
+  border-color: #ffffff;}
+  
+.alizarin-a1:after {
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.alizarin-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#822421"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.alizarin-a2 {
+  color: #fff;
+  background-color: #b9682f;
+  border-color: #ffffff; }
+  
+.alizarin-a2:after {
+  color: #fff;
+  background-color: #b9682f;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.alizarin-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#b9682f"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.alizarin-a3 {
+  color: #fff;
+  background-color: #b92f90;
+  border-color: #ffffff }
+ 
+ .alizarin-a3:after {
+  color: #fff;
+  background-color: #b92f90;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.alizarin-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#b92f90";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.alizarin-a4 {
+  color: #fff;
+  background-color: #822165;
+  border-color: #ffffff; }
+  
+.alizarin-a4:after {
+  color: #fff;
+  background-color: #822165;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.alizarin-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#822165";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.alizarin-m1 {
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff; }
+  
+.alizarin-m1:after{
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.alizarin-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#822421";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.alizarin-m2 {
+  color: #fff;
+  background-color: #ffd1cf;
+  border-color: #ffffff; }
+  
+.alizarin-m2:after{
+  color: #fff;
+  background-color: #ffd1cf;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.alizarin-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffd1cf";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.alizarin-m3 {
+  color: #fff;
+  background-color: #ffa3a0;
+  border-color: #ffffff; }
+  
+  .alizarin-m3:after{
+  color: #fff;
+  background-color: #ffa3a0;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.alizarin-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffa3a0";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.alizarin-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.alizarin-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.alizarin-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.alizarin-t1 {
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff; }
+  
+.alizarin-t1:after{
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.alizarin-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#822421 ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.alizarin-t2 {
+  color: #fff;
+  background-color: #b5b92f;
+  border-color: #ffffff; }
+  
+  .alizarin-t2:after{
+  color: #fff;
+  background-color: #b5b92f;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.alizarin-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#b5b92f";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.alizarin-t3 {
+  color: #fff;
+  background-color: #7f8221;
+  border-color: #ffffff; }
+  
+.alizarin-t3:after{
+  color: #fff;
+  background-color: #7f8221;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.alizarin-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#7f8221";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.alizarin-t4 {
+  color: #fff;
+  background-color: #3150b9;
+  border-color: #ffffff; }
+  
+  .alizarin-t4:after{
+  color: #fff;
+  background-color: #3150b9;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.alizarin-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3150b9";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.alizarin-c1 {
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff; }
+  
+.alizarin-c1:after{
+  color: #fff;
+  background-color: #822421;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.alizarin-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#822421";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.alizarin-c2 {
+  color: #fff;
+  background-color: #ffd1cf;
+  border-color: #ffffff; }
+  
+.alizarin-c2:after{
+  color: #fff;
+  background-color: #ffd1cf;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.alizarin-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#ffd1cf";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.alizarin-c3 {
+  color: #fff;
+  background-color: #2fb939;
+  border-color: #ffffff; }
+  
+.alizarin-c3:after{
+  color: #fff;
+  background-color: #2fb939;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.alizarin-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#2fb939";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.alizarin-c4 {
+  color: #fff;
+  background-color: #218228;
+  border-color: #ffffff; }
+  
+  .alizarin-c4:after{
+  color: #fff;
+  background-color: #218228;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.alizarin-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#218228";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.escarlata-a1 {
+  color: #fff;  
+  background-color: #6a3025;
+  border-color: #ffffff;}
+  
+.escarlata-a1:after {
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.escarlata-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#6a3025"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.escarlata-a2 {
+  color: #fff;
+  background-color: #986535;
+  border-color: #ffffff; }
+  
+.escarlata-a2:after {
+  color: #fff;
+  background-color: #986535;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.escarlata-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#986535"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.escarlata-a3 {
+  color: #fff;
+  background-color: #983567;
+  border-color: #ffffff }
+ 
+ .escarlata-a3:after {
+  color: #fff;
+  background-color: #983567;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.escarlata-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#983567";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.escarlata-a4 {
+  color: #fff;
+  background-color: #6a2548;
+  border-color: #ffffff; }
+  
+.escarlata-a4:after {
+  color: #fff;
+  background-color: #6a2548;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.escarlata-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#6a2548";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.escarlata-m1 {
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff; }
+  
+.escarlata-m1:after{
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.escarlata-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#6a3025";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.escarlata-m2 {
+  color: #fff;
+  background-color: #ffdcd5;
+  border-color: #ffffff; }
+  
+.escarlata-m2:after{
+  color: #fff;
+  background-color: #ffdcd5;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.escarlata-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffdcd5";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.escarlata-m3 {
+  color: #fff;
+  background-color: #ffb9ac;
+  border-color: #ffffff; }
+  
+  .escarlata-m3:after{
+  color: #fff;
+  background-color: #ffb9ac;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.escarlata-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffb9ac";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.escarlata-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.escarlata-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.escarlata-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.escarlata-t1 {
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff; }
+  
+.escarlata-t1:after{
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.escarlata-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#6a3025 ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.escarlata-t2 {
+  color: #fff;
+  background-color: #889835;
+  border-color: #ffffff; }
+  
+  .escarlata-t2:after{
+  color: #fff;
+  background-color: #889835;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.escarlata-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#889835";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.escarlata-t3 {
+  color: #fff;
+  background-color: #5f6a25;
+  border-color: #ffffff; }
+  
+.escarlata-t3:after{
+  color: #fff;
+  background-color: #5f6a25;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.escarlata-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#5f6a25";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.escarlata-t4 {
+  color: #fff;
+  background-color: #404598;
+  border-color: #ffffff; }
+  
+  .escarlata-t4:after{
+  color: #fff;
+  background-color: #404598;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.escarlata-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#404598";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.escarlata-c1 {
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff; }
+  
+.escarlata-c1:after{
+  color: #fff;
+  background-color: #6a3025;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.escarlata-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#6a3025";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.escarlata-c2 {
+  color: #fff;
+  background-color: #ffdcd5;
+  border-color: #ffffff; }
+  
+.escarlata-c2:after{
+  color: #fff;
+  background-color: #ffdcd5;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.escarlata-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#ffdcd5";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.escarlata-c3 {
+  color: #fff;
+  background-color: #359861;
+  border-color: #ffffff; }
+  
+.escarlata-c3:after{
+  color: #fff;
+  background-color: #359861;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.escarlata-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#359861";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.escarlata-c4 {
+  color: #fff;
+  background-color: #359861;
+  border-color: #ffffff; }
+  
+  .escarlata-c4:after{
+  color: #fff;
+  background-color: #359861;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.escarlata-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#359861";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.arandano-a1 {
+  color: #fff;  
+  background-color: #46252c;
+  border-color: #ffffff;}
+  
+.arandano-a1:after {
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.arandano-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#46252c"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.arandano-a2 {
+  color: #fff;
+  background-color: #644335;
+  border-color: #ffffff; }
+  
+.arandano-a2:after {
+  color: #fff;
+  background-color: #644335;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.arandano-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#644335"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.arandano-a3 {
+  color: #fff;
+  background-color: #64355e;
+  border-color: #ffffff }
+ 
+ .arandano-a3:after {
+  color: #fff;
+  background-color: #64355e;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.arandano-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#64355e";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.arandano-a4 {
+  color: #fff;
+  background-color: #462542;
+  border-color: #ffffff; }
+  
+.arandano-a4:after {
+  color: #fff;
+  background-color: #462542;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.arandano-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#462542";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.arandano-m1 {
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff; }
+  
+.arandano-m1:after{
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.arandano-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#46252c";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.arandano-m2 {
+  color: #fff;
+  background-color: #ffe1e8;
+  border-color: #ffffff; }
+  
+.arandano-m2:after{
+  color: #fff;
+  background-color: #ffe1e8;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.arandano-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffe1e8";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.arandano-m3 {
+  color: #fff;
+  background-color: #ffc3d1;
+  border-color: #ffffff; }
+  
+  .arandano-m3:after{
+  color: #fff;
+  background-color: #ffc3d1;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.arandano-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffc3d1";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.arandano-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.arandano-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.arandano-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.arandano-t1 {
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff; }
+  
+.arandano-t1:after{
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.arandano-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#46252c ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.arandano-t2 {
+  color: #fff;
+  background-color: #646135;
+  border-color: #ffffff; }
+  
+  .arandano-t2:after{
+  color: #fff;
+  background-color: #646135;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.arandano-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#646135";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.arandano-t3 {
+  color: #fff;
+  background-color: #464425;
+  border-color: #ffffff; }
+  
+.arandano-t3:after{
+  color: #fff;
+  background-color: #464425;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.arandano-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#464425";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.arandano-t4 {
+  color: #fff;
+  background-color: #354864;
+  border-color: #ffffff; }
+  
+  .arandano-t4:after{
+  color: #fff;
+  background-color: #354864;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.arandano-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#354864";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.arandano-c1 {
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff; }
+  
+.arandano-c1:after{
+  color: #fff;
+  background-color: #46252c;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.arandano-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#46252c";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.arandano-c2 {
+  color: #fff;
+  background-color: #ffe1e8;
+  border-color: #ffffff; }
+  
+.arandano-c2:after{
+  color: #fff;
+  background-color: #ffe1e8;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.arandano-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#ffe1e8";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.arandano-c3 {
+  color: #fff;
+  background-color: #3a6435;
+  border-color: #ffffff; }
+  
+.arandano-c3:after{
+  color: #fff;
+  background-color: #3a6435;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.arandano-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#3a6435";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.arandano-c4 {
+  color: #fff;
+  background-color: #294625;
+  border-color: #ffffff; }
+  
+  .arandano-c4:after{
+  color: #fff;
+  background-color: #294625;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.arandano-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#294625";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.cromo-a1 {
+  color: #fff;  
+  background-color: #3a3f43;
+  border-color: #ffffff;}
+  
+.cromo-a1:after {
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.cromo-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#3a3f43"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.cromo-a2 {
+  color: #fff;
+  background-color: #555560;
+  border-color: #ffffff; }
+  
+.cromo-a2:after {
+  color: #fff;
+  background-color: #555560;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.cromo-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#555560"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.cromo-a3 {
+  color: #fff;
+  background-color: #53605b;
+  border-color: #ffffff }
+ 
+ .cromo-a3:after {
+  color: #fff;
+  background-color: #53605b;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.cromo-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#53605b";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.cromo-a4 {
+  color: #fff;
+  background-color: #3a4340;
+  border-color: #ffffff; }
+  
+.cromo-a4:after {
+  color: #fff;
+  background-color: #3a4340;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.cromo-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#3a4340";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.cromo-m1 {
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff; }
+  
+.cromo-m1:after{
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.cromo-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3a3f43";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.cromo-m2 {
+  color: #fff;
+  background-color: #f6fbff;
+  border-color: #ffffff; }
+  
+.cromo-m2:after{
+  color: #fff;
+  background-color: #f6fbff;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.cromo-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#f6fbff";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.cromo-m3 {
+  color: #fff;
+  background-color: #eef7ff;
+  border-color: #ffffff; }
+  
+  .cromo-m3:after{
+  color: #fff;
+  background-color: #eef7ff;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.cromo-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#eef7ff";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.cromo-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.cromo-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.cromo-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.cromo-t1 {
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff; }
+  
+.cromo-t1:after{
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.cromo-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#3a3f43 ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.cromo-t2 {
+  color: #fff;
+  background-color: #605358;
+  border-color: #ffffff; }
+  
+  .cromo-t2:after{
+  color: #fff;
+  background-color: #605358;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.cromo-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#605358";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.cromo-t3 {
+  color: #fff;
+  background-color: #433a3e;
+  border-color: #ffffff; }
+  
+.cromo-t3:after{
+  color: #fff;
+  background-color: #433a3e;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.cromo-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#433a3e";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.cromo-t4 {
+  color: #fff;
+  background-color: #605f53;
+  border-color: #ffffff; }
+  
+  .cromo-t4:after{
+  color: #fff;
+  background-color: #605f53;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.cromo-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#605f53";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.cromo-c1 {
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff; }
+  
+.cromo-c1:after{
+  color: #fff;
+  background-color: #3a3f43;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.cromo-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3a3f43";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.cromo-c2 {
+  color: #fff;
+  background-color: #f6fbff;
+  border-color: #ffffff; }
+  
+.cromo-c2:after{
+  color: #fff;
+  background-color: #f6fbff;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.cromo-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#f6fbff";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.cromo-c3 {
+  color: #fff;
+  background-color: #605a53;
+  border-color: #ffffff; }
+  
+.cromo-c3:after{
+  color: #fff;
+  background-color: #605a53;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.cromo-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#605a53";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.cromo-c4 {
+  color: #fff;
+  background-color: #433f3a;
+  border-color: #ffffff; }
+  
+  .cromo-c4:after{
+  color: #fff;
+  background-color: #433f3a;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.cromo-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#433f3a";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
+
+/**************************************************Análogos*************************************************/
+
+/******************A1*****************************/
+.motocross-a1 {
+  color: #fff;  
+  background-color: #231f30;
+  border-color: #ffffff;}
+  
+.motocross-a1:after {
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff; 
+  content:"Olive";}
+
+.motocross-a1:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#231f30"}
+/******************A1*****************************/
+
+/******************A2*****************************/
+.motocross-a2 {
+  color: #fff;
+  background-color: #392b44;
+  border-color: #ffffff; }
+  
+.motocross-a2:after {
+  color: #fff;
+  background-color: #392b44;
+  border-color: #ffffff; 
+  content:"Bitter Lemon";}
+  
+.motocross-a2:hover:after{
+color: #fff;
+border-color: #000000; 
+content: "#392b44"}
+/******************A2*****************************/
+
+/******************A3*****************************/
+.motocross-a3 {
+  color: #fff;
+  background-color: #2b3444;
+  border-color: #ffffff }
+ 
+ .motocross-a3:after {
+  color: #fff;
+  background-color: #2b3444;
+  border-color: #ffffff; 
+  content:"Gamboge";}
+ 
+.motocross-a3:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#2b3444";}
+/******************A3*****************************/
+
+/******************A4*****************************/
+.motocross-a4 {
+  color: #fff;
+  background-color: #1e2530;
+  border-color: #ffffff; }
+  
+.motocross-a4:after {
+  color: #fff;
+  background-color: #1e2530;
+  border-color: #ffffff; 
+  content:"Golden Brown";}  
+  
+.motocross-a4:hover:after{
+color: #fff;
+border-color: #000000; 
+content:"#1e2530";}  
+/******************A4*****************************/
+
+/**************************************************Análogos*************************************************/
+
+/**************************************************Mono*************************************************/
+
+/******************M1*****************************/
+.motocross-m1 {
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff; }
+  
+.motocross-m1:after{
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff; 
+  content:"Olive";}
+  
+.motocross-m1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#231f30";}
+/******************M1*****************************/
+
+/******************M2*****************************/
+.motocross-m2 {
+  color: #fff;
+  background-color: #ede9ff;
+  border-color: #ffffff; }
+  
+.motocross-m2:after{
+  color: #fff;
+  background-color: #ede9ff;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.motocross-m2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ede9ff";}
+/******************M2*****************************/
+
+/******************M3*****************************/
+.motocross-m3 {
+  color: #fff;
+  background-color: #dcd3ff;
+  border-color: #ffffff; }
+  
+  .motocross-m3:after{
+  color: #fff;
+  background-color: #dcd3ff;
+  border-color: #ffffff; 
+  content:"Olive Drab 6";}
+  
+.motocross-m3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#dcd3ff";}
+/******************M3*****************************/
+
+/******************M4*****************************/
+.motocross-m4 {
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; }
+  
+.motocross-m4:after{
+  color: #fff;
+  background-color: #ffffff;
+  border-color: #ffffff; 
+  content:"Rich Black ";}  
+  
+.motocross-m4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#ffffff";}  
+/******************M4*****************************/
+/**************************************************Mono*************************************************/
+
+/**************************************************Triada*************************************************/
+
+/******************T1*****************************/
+.motocross-t1 {
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff; }
+  
+.motocross-t1:after{
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.motocross-t1:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#231f30 ";}
+/******************T1*****************************/
+
+/******************T2*****************************/
+.motocross-t2 {
+  color: #fff;
+  background-color: #44332b;
+  border-color: #ffffff; }
+  
+  .motocross-t2:after{
+  color: #fff;
+  background-color: #44332b;
+  border-color: #ffffff; 
+  content:"Cerulean Crayola";}
+  
+.motocross-t2:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#44332b";}
+/******************T2*****************************/
+
+/******************T3*****************************/
+.motocross-t3 {
+  color: #fff;
+  background-color: #30241e;
+  border-color: #ffffff; }
+  
+.motocross-t3:after{
+  color: #fff;
+  background-color: #30241e;
+  border-color: #ffffff; 
+  content:"CG Blue";}
+  
+.motocross-t3:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#30241e";}
+/******************T3*****************************/
+
+/******************T4*****************************/
+.motocross-t4 {
+  color: #fff;
+  background-color: #3c442b;
+  border-color: #ffffff; }
+  
+  .motocross-t4:after{
+  color: #fff;
+  background-color: #3c442b;
+  border-color: #ffffff; 
+  content:"Barbie Pink";}
+  
+.motocross-t4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#3c442b";}
+/******************T4*****************************/
+
+/**************************************************Triada*************************************************/
+
+/**************************************************Complementarios*************************************************/
+/******************C1*****************************/
+.motocross-c1 {
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff; }
+  
+.motocross-c1:after{
+  color: #fff;
+  background-color: #231f30;
+  border-color: #ffffff;
+  content:"Olive";}
+  
+.motocross-c1:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#231f30";}
+/******************C1*****************************/
+
+/******************C2*****************************/
+.motocross-c2 {
+  color: #fff;
+  background-color: #ede9ff;
+  border-color: #ffffff; }
+  
+.motocross-c2:after{
+  color: #fff;
+  background-color: #ede9ff;
+  border-color: #ffffff;
+  content:"Olive Drab 7";}
+  
+.motocross-c2:hover:after {
+color: #fff;
+border-color: #ffffff;
+content:"#ede9ff";}
+/******************C2*****************************/
+
+/******************C3*****************************/
+.motocross-c3 {
+  color: #fff;
+  background-color: #443e2b;
+  border-color: #ffffff; }
+  
+.motocross-c3:after{
+  color: #fff;
+  background-color: #443e2b;
+  border-color: #ffffff;
+  content:"Han Purple";}
+  
+.motocross-c3:hover:after {
+color: #fff;
+border-color: #fffff; 
+content:"#443e2b";}
+/******************C3*****************************/
+
+/******************C4*****************************/
+.motocross-c4 {
+  color: #fff;
+  background-color: #302b1e;
+  border-color: #ffffff; }
+  
+  .motocross-c4:after{
+  color: #fff;
+  background-color: #302b1e;
+  border-color: #ffffff;
+  content:"KSU Purple";}
+  
+.motocross-c4:hover:after {
+color: #fff;
+border-color: #ffffff; 
+content:"#302b1e";}
+/******************C4*****************************/
+/*************************************************Complementarios*************************************************/
